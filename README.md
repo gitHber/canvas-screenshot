@@ -1,2 +1,2 @@
 # canvas-screenshot
-对canvas截图的事项
+对canvas截图的实现
